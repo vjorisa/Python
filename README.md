@@ -65,7 +65,3 @@ ASCII Rendering: Convert brightness values into different ASCII characters.
  Project Goal
 
 The goal of this project is to explore how mathematics and Python can be combined to create visual simulations directly inside a terminal.
-
-📄 License
-
-This project is open-source. Feel free to explore, modify, and improve it.
